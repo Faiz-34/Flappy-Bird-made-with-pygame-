@@ -19,12 +19,6 @@ Requirements
 - Python 3.x
 - Pygame library
 
-How to Run
-
-1. Clone the repository: git clone https://github.com/your-username/flappy-bird.git
-2. Install the required libraries: pip install pygame
-3. Run the game: python flappy_bird.py
-
 Code Structure
 
 The code is organized into several modules:
